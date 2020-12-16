@@ -16,9 +16,9 @@ Keep your code in below format when pushing it to your GitHub account.
 Complete below points.
 
 1. Create a simple session based login.
-* UI      - React JS/React Native
-* Backend - Pure PHP
-* DB      - MySql/MariaDB
+* UI      -- React JS/React Native
+* Backend -- Pure PHP
+* DB      -- MySql/MariaDB
 
 2. Throw an invalid password alert, if the user entered invalid credentials.
 
