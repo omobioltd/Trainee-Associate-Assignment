@@ -1,29 +1,37 @@
-Omobio Trainee Exercise
+Omobio Trainee Fullstack Developer Practical Test
 ============================
 
 ## Get started
 
 
-Keep your code in below format when you push it to your github account.
+Keep your code in below format when pushing it to your GitHub account.
 ```
 ├── bizlogic  -- Backend Code
-│── ui        -- UI logic(React JS or react-native logic). Entry level React Js and react-native structure available
+│── ui        -- UI logic(React JS or React Native logic). Entry level React Js and React Native structure available
 └── db        -- Database structure
 ```
 ## Tasks
 
+
 Complete below points.
 
-1. Create a simple session based login UI using React JS or react-native. Please use pure PHP for backend logic.
+1. Create a simple session based login.
+    UI      - React JS/React Native
+    Backend - Pure PHP
 
-2. Throw a invalid password alert if the user entered invalid credentials.
+2. Throw an invalid password alert, if the user entered invalid credentials.
 
-3. If a user entered correct credentials, redirect user to User List view. This view should retrieve id, name, username and email on the User table.
+3. If the user entered correct credentials, re-direct user to User list view. This view should retrieve id, name, username and email on the User table.
 
-Your app UI part(mobile/web app) needs to actually run, our team will check each and every step you followed. Please mention your localhost base url correctly. We will configure our environment and do the evaluations.
+## Note
 
-**Note**
+* DB structure available on `db/structure.sql` or use your own structure. You should keep your DB changes and data with  `structure.sql` and push it to GitHub. 
+* Follow the relevant folder structure.
+* Do not upload node-modules to GitHub.
 
-* DB structure available on `db/structure.sql` or use your own structure. You should keep your DB changes and data with  `structure.sql` and push it to github. 
-* Please follow the relevant folder structure.
-* **do not upload node modules to github.**
+
+## Evaluation 
+
+Your app UI part(mobile/web) actually needs to run, our team will check each and every step you followed. Please mention your localhost base url correctly.
+We will configure our environment and do the evaluations.
+
