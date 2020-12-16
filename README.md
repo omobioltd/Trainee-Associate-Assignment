@@ -18,11 +18,11 @@ Complete below points.
 1. Create a simple session based login.
 * UI      - React JS/React Native
 * Backend - Pure PHP
-* DB      - MySql/Maria DB
+* DB      - MySql/MariaDB
 
 2. Throw an invalid password alert, if the user entered invalid credentials.
 
-3. If the user entered correct credentials, re-direct user to User list view. This view should retrieve id, name, username and email on the User table.
+3. If the user entered correct credentials, redirect user to User list view. This view should retrieve id, name, username and email on the User table.
 
 ## Note
 
