@@ -6,3 +6,6 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+#nodemoduls
+/../../../../:\Trainee-Associate-Assignment\ui\frontend\node_modules/
+
