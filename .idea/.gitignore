@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../:\myfinal\Trainee-Associate-Assignment\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+#nodemoduls
+/../../../../:\Trainee-Associate-Assignment\ui\frontend\node_modules/
+
